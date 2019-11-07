@@ -1,0 +1,1 @@
+ganache-cli -m "marine waste meat ready empty false health alone shuffle globe auto good"
