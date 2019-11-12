@@ -37,7 +37,7 @@ export default class Contract {
 
             console.log('Register Airline');
             try {
-                await this.flightSuretyApp.methods.registerAirline(accounts[1], 'UA', 'United Airlines').send({from: this.owner, gas: 1500000});
+                await this.flightSuretyApp.methods.registerAirline(accounts[1], 'RSS', 'RSS Airlines').send({from: this.owner, gas: 1500000});
             }
             catch(e) {
                 console.log(e);
