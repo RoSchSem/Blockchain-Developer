@@ -54,7 +54,7 @@ truffle test
 0x475a5faf25eb6d8343fec0d9fcfab1f00a35763e
 ```
 
-![Screenshot](pic1_Etherscan_addressowner.png)
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic1_Etherscan_addressowner.png "Current owner")
 
 ### SquareVerifier contract address
 ```
@@ -77,10 +77,11 @@ https://rinkeby.opensea.io/assets/0xefbcdac3ab154968f4ea3ab2766c7fe39bf1c4a6/4
 https://rinkeby.opensea.io/assets/0xefbcdac3ab154968f4ea3ab2766c7fe39bf1c4a6/5
 
 
-![Screenshot](pic1_oversea.png)
+
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic1_oversea.png "Storefront")
 
 
 
 ## Transaction example
-![Screenshot](pic2_oversea.png)
-![Screenshot](pic3_oversea.png)
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic2_oversea.png "example #1")
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic3_oversea.png "example #2")
