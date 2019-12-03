@@ -78,10 +78,10 @@ https://rinkeby.opensea.io/assets/0xefbcdac3ab154968f4ea3ab2766c7fe39bf1c4a6/5
 
 
 
-![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic1_oversea.png "Storefront")
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic1_oversea.PNG "Oversea #1")
 
 
 
 ## Transaction example
-![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic2_oversea.png "example #1")
-![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic3_oversea.png "example #2")
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic2_oversea.PNG "Oversea #2")
+![Screenshot](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic3_oversea.PNG "Oversea #3")
