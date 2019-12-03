@@ -47,7 +47,8 @@ truffle test
 
 ---------------------------------------------
 ![Screenshot](pic1_truffle_test.png)
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/RoSchSem/Blockchain-Developer/blob/master/Project%208/pic1_truffle_test.PNG "Optional Title")
+
 ---------------------------------------------
 ## Addresses of deployed contracts in Rinkeby
 ### Account address (current owner of the tokens)
