@@ -47,6 +47,7 @@ truffle test
 
 ---------------------------------------------
 ![Screenshot](pic1_truffle_test.png)
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 ---------------------------------------------
 ## Addresses of deployed contracts in Rinkeby
 ### Account address (current owner of the tokens)
